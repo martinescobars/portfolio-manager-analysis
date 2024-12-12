@@ -14,9 +14,9 @@ Analytics workflow to estimate PnL risk return profile and to perform manager's 
 
 Description of each section in the script:
 
-- **[Data Loading]**: [Data import and basic data validation and exploration].
-- **[Industry Factor PnL]**: [Calculation of PnL].
-- **[Industry Risk Taking Analysis]**: [Assessment of risk taking skills].
+- **Data Loading**: Data import and basic data validation and exploration.
+- **Industry Factor PnL**: Calculation of PnL.
+- **Industry Risk Taking Analysis**: Assessment of risk taking skills.
 
 
 ## The Author(s)
